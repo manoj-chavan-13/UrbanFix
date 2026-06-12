@@ -88,6 +88,7 @@ UrbanFix/
 │   ├── package.json
 │   └── vite.config.js
 │
+├── TEAM.md                     # Core Engineering Team & Motivation
 ├── PRD.md                      # Product Requirements Document
 ├── PROJECT_OVERVIEW.md         # Architecture & Database rules
 └── DEVELOPMENT_GUIDE.md        # Step-by-Step execution roadmap
