@@ -4,7 +4,6 @@ This document outlines the exact order in which you should complete the tasks le
 
 Because the entire project is pre-structured with empty functions and detailed `TASK` comments, you simply need to follow this Sprint-by-Sprint guide, opening the specific files mentioned, and filling out the functions!
 
----
 
 ## 🚀 The Build Order
 
@@ -59,7 +58,6 @@ Because the entire project is pre-structured with empty functions and detailed `
    - Complete the `useEffect` fetch to get pending KYC providers.
    - Complete the `approveProvider()` function to validate them on the backend.
 
----
 
 ## 💡 Important Startup Advice: "Supply First"
 When you finish coding and deploy this app, **DO NOT** launch it to customers immediately. 

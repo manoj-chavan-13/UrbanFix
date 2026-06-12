@@ -12,7 +12,6 @@ Do NOT attempt to build a microservices architecture. A monolithic backend is re
 - **Database:** **MongoDB** with Mongoose ODM. MongoDB is critical here because it natively supports GeoSpatial indexes (finding points on a map within a certain radius).
 - **Real-Time Layer:** **Socket.io**. Used for live GPS tracking of technicians and instant popup notifications when a booking is created.
 
----
 
 ## 🗄️ Database Design (MongoDB)
 
@@ -39,7 +38,6 @@ The transaction record connecting a User, a Provider, and a Service.
 - **Fields:** `customerId` (ObjectId), `providerId` (ObjectId), `serviceId` (ObjectId), `bookingStatus` (Enum: PENDING, ACCEPTED, ON_THE_WAY, COMPLETED, CANCELLED).
 - **Purpose:** Tracks the lifecycle of the job.
 
----
 
 ## 📡 The Real-Time Booking Engine (How it works)
 

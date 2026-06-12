@@ -2,7 +2,6 @@
 
 Behind every great startup and scalable product is a dedicated, passionate, and relentless engineering team. UrbanFix is no exception. This project is proudly designed, architected, built, and maintained by a core team of developers driven by the vision of organizing the unorganized home-services sector in India.
 
----
 
 ## 🌟 The Founding Engineering Team
 
@@ -28,7 +27,6 @@ Focused on the front-end user experience. Architecting the Vite + ReactJS portal
 *Core Contributor*
 Ensuring the integrity of the database, the strictness of the GeoSearch algorithms, and the reliability of the backend engine. Making sure that the "nearest provider" logic never fails.
 
----
 
 ## 💡 Our Shared Motivation
 
@@ -41,7 +39,6 @@ Building a hyperlocal marketplace is notoriously difficult. It requires balancin
 2. **Empathy for the User:** The technician using our Provider App might not be tech-savvy. We design with large buttons, clear text, and zero-friction flows.
 3. **Unbreakable Core:** While UI can be polished later, our core booking engine, GPS tracking, and Socket.io websockets must be rock-solid from Day 1.
 
----
 
 ## 🚀 To The Team: Let's Build This!
 

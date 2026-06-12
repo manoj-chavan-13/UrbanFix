@@ -2,7 +2,6 @@
 
 Welcome to the **UrbanFix** repository! This is a comprehensive, full-stack, hyper-local home service marketplace (similar to UrbanCompany). This project is designed specifically for Tier-2 and Tier-3 cities in India to solve the problem of finding reliable, affordable, and nearby technicians (plumbers, electricians, carpenters, etc.).
 
----
 
 ## 🎯 What is the Purpose of this Project?
 
@@ -14,7 +13,6 @@ This project aims to solve four major problems in the informal service sector:
 
 **The Solution:** UrbanFix is a platform that uses GPS location and real-time Socket.io websockets to match a customer with the nearest verified technician in under 60 seconds.
 
----
 
 ## 🚀 What Output Do We Expect?
 
@@ -25,7 +23,6 @@ By completing this codebase, you will have a fully functioning **Minimum Viable 
 3. **Admin Panel (`admin-panel/`):** A Vite + ReactJS web application. Operations teams use this to manually approve technician KYC (Aadhaar/Selfies) and monitor live bookings.
 4. **Backend Server (`backend/`):** A Node.js + Express.js monolithic API server. It acts as the brain of the operation, utilizing MongoDB for advanced `$near` GeoSpatial queries and Socket.io for live tracking.
 
----
 
 ## 🧠 The "Task-Driven" Codebase Architecture
 
@@ -47,7 +44,6 @@ const fetchCategories = async () => {
 };
 ```
 
----
 
 ## 📂 Complete Directory Structure
 
@@ -94,7 +90,6 @@ UrbanFix/
 └── DEVELOPMENT_GUIDE.md        # Step-by-Step execution roadmap
 ```
 
----
 
 ## 🏁 Where to Start?
 
