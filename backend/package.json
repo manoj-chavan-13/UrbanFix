@@ -1,0 +1,11 @@
+﻿{
+  "name": "urbanfix-backend",
+  "version": "1.0.0",
+  "description": "Backend API for UrbanFix",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  }
+}
+
